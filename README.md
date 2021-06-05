@@ -3,4 +3,4 @@ A Content-Based Movie Recommender System to estimate the top N movies that a use
 
 ![image1](https://github.com/srikanthv0610/Movie-Recommendation-System/blob/main/plots/movie.png){:height="50%" width="50%"}
 
-<img src="https://github.com/srikanthv0610/Movie-Recommendation-System/blob/main/plots/movie.png" width="50" height="50">
+<img src="https://github.com/srikanthv0610/Movie-Recommendation-System/blob/main/plots/movie.png" width="250" height="250">
