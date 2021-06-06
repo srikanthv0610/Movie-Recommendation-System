@@ -4,4 +4,4 @@ A Movie Recommender System to estimate the top N movies that a user is likely to
 <img src="https://github.com/srikanthv0610/Movie-Recommendation-System/blob/main/plots/movie.png" width="400" height="500">
 
 2) **Collaborative Filtering:** Here we find the most related movies for a target movie and make recommendations based on this
-<img src="https://github.com/srikanthv0610/Movie-Recommendation-System/blob/main/plots/movie2.png" width="400" height="500">
+<img src="https://github.com/srikanthv0610/Movie-Recommendation-System/blob/main/plots/movie2.png" width="500" height="500">
