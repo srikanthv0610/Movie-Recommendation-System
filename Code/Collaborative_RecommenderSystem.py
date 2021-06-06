@@ -6,10 +6,10 @@ import seaborn as sns
 sns.set_style('white')
 
 column_name = ['user_id', 'item_id', 'rating', 'timestamp']
-df = pd.read_csv('Learning_Dataset/Movie-Recommender-in-python-master/u.data', sep='\t', names= column_name)
+df = pd.read_csv('u.data', sep='\t', names= column_name)
 print(df.head())
 
-movie_titles = pd.read_csv('Learning_Dataset/Movie-Recommender-in-python-master/Movie_Id_Titles')
+movie_titles = pd.read_csv('Movie_Id_Titles')
 
 # Merging the two datasets together
 df = pd.merge(df, movie_titles, on='item_id')
