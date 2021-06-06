@@ -22,4 +22,4 @@ Represents the histogram for the number of ratings
 
 ## Result:
 
-![Plot4](https://github.com/srikanthv0610/Movie-Recommendation-System/blob/main/plots/Fig4.png)
+![Plot4](https://github.com/srikanthv0610/Movie-Recommendation-System/blob/main/plots/Fig4.PNG)
