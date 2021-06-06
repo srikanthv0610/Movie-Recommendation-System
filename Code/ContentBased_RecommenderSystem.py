@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv('Learning_Dataset/IMDB-Movie-Data.csv')
+df = pd.read_csv('IMDB-Movie-Data.csv')
 df['Movie_Id'] = range(0,1000)
 print(df.head(5))
 
