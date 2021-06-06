@@ -19,3 +19,7 @@ Represents the histogram for the number of ratings
 ![Plot3](https://github.com/srikanthv0610/Movie-Recommendation-System/blob/main/plots/Figure_3.png).
 * The scatter plot between average ratings and number of ratings.
 * We obseve a positive relation between the two variables, i.e movie with large amount of ratings have higher average ratings.
+
+## Result:
+
+![Plot4](https://github.com/srikanthv0610/Movie-Recommendation-System/blob/main/plots/Fig4.png)
